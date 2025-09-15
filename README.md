@@ -15,11 +15,11 @@ Download the runnable JAR from Releases:
 
 
 
-![Splash Screen](assets/screenshots/splash.png)
-![Login Screen](assets/screenshots/login.png)
-![Main Dashboard](assets/screenshots/dashboard.png)
-![Student Registration](assets/screenshots/student-registration.png)
-![Issue Book](assets/screenshots/issue-book.png)
+![Splash Screen](screenshots/splash.png)
+![Login Screen](screenshots/login.png)
+![Main Dashboard](screenshots/dashboard.png)
+![Student Registration](screenshots/student-registration.png)
+![Issue Book](screenshots/issue-book.png)
 
 ---
 
